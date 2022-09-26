@@ -1,0 +1,22 @@
+.container{
+    margin-top: 2rem;
+    width: 40%;
+    border: 1px solid black;
+    min-height: 400px;
+}
+
+[class*="col-"]{
+    height: 20px;
+}
+
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}
+
+.gray{
+    background-color: lightgray;
+}
